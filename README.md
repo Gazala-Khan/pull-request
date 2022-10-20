@@ -1,7 +1,7 @@
-# pull-request 
+# pull-request
 
 **pull request**
-~pull reuest~~
+~pull request~~
 
 - one
 - two
