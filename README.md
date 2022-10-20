@@ -9,8 +9,7 @@
 - list 2
 
 
-**pull request**
-~pull request~
+
 *~~making pull req*
 - one
 - two
